@@ -1,4 +1,4 @@
-## IDP chiaw na
+## Smart Parking System using YOLOv5
 
 <div align="center">
   <p>
